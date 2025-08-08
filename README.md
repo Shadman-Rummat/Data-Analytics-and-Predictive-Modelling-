@@ -10,7 +10,7 @@
 ## **Project Overview**  
 This project applies **machine learning and statistical methods** to explore how demographic, behavioral, and dietary factors contribute to obesity and its potential progression to cardiovascular diseases.  
 
-Using a blend of the **KDD** and **CRISP-DM** frameworks, I performed end-to-end data analysis — from preprocessing to predictive modeling — focusing on **eight key features**:
+Using a blend of the **KDD** and **CRISP-DM** frameworks, I performed end-to-end data analysis, from preprocessing to predictive modeling by focusing on **eight key features**:
 
 - Age  
 - Weight  
@@ -23,7 +23,7 @@ Using a blend of the **KDD** and **CRISP-DM** frameworks, I performed end-to-end
 
 ---
 
-## **Tools & Technologies**
+## **Tools Used**
 - **Data Handling:** Excel, Python, Minitab, SPSS  
 - **Machine Learning & Visualization:** Python (scikit-learn, matplotlib), Orange  
 - **Statistical Analysis:** Minitab, SPSS  
@@ -31,6 +31,7 @@ Using a blend of the **KDD** and **CRISP-DM** frameworks, I performed end-to-end
 ---
 
 ## **Methodology**
+![Project Framework](Framework.png)
 
 ### **1. Data Pre-Processing**
 - Numerical Feature Analysis  
