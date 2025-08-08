@@ -1,6 +1,7 @@
 # **Exploring Obesity as a Cardiovascular Disease Risk Factor – A Machine Learning Approach**
 
-> **Module Achievement:** Highest class score – **85%**  
+**Module:** Data Analytics and Predictive Modelling
+> **Module Achievement:** Highest class score – **85%** (High Distinction)  
 > **Dataset:** *Estimation of obesity levels based on eating habits and physical condition in individuals from Colombia, Peru, and Mexico*  
 > Authors: Fabio Mendoza Palechor & Alexis de la Hoz Manotas [[Link]](https://www.sciencedirect.com/science/article/pii/S2352340919306985#bib1)  
 
@@ -9,7 +10,7 @@
 ## **Project Overview**  
 This project applies **machine learning and statistical methods** to explore how demographic, behavioral, and dietary factors contribute to obesity and its potential progression to cardiovascular diseases.  
 
-Using the **KDD** and **CRISP-DM** frameworks, I performed end-to-end data analysis — from preprocessing to predictive modeling — focusing on **eight key features**:
+Using a blend of the **KDD** and **CRISP-DM** frameworks, I performed end-to-end data analysis — from preprocessing to predictive modeling — focusing on **eight key features**:
 
 - Age  
 - Weight  
@@ -82,4 +83,3 @@ The methodology can be adapted for broader datasets to improve **public health a
 ├── scripts/             # Python scripts for ML models
 ├── results/             # Output graphs, evaluation metrics
 └── README.md            # Project documentation
-
